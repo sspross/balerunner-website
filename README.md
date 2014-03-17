@@ -18,7 +18,6 @@ Official website of the balerunner game, written in clojure.
 ## level features
 
 - 2 player (together? vs?)
--
 
 ## License
 
