@@ -1,6 +1,6 @@
 # balerunner
 
-Official website of the balerunner game, written in clojure.
+Official website of the balerunner game
 
 ## todo website
 
